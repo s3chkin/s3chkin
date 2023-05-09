@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sechkin;
-- 👀 I’m interested in Programming and i write code on Html, Css, JavaScript, .Net Core, MVC 6, Bootstrap, C#;
+- 👀 I’m interested in Programming and i write code on Html, Css, JavaScript, .Net Core, MVC, Bootstrap, C#;
 - 🌱 I’m currently learning .Net Core and MVC;
 - 📫 How to reach me - instagram: https://www.instagram.com/__sechkin__/; G-mail: seckins191@gmail.com;
 
